@@ -6,7 +6,6 @@ fn main() {
 
 // fn print_numbers_to(num: u32) -> ()
 // {fffffffffffffffffffffffffffffffffffffffff
-    
 //     for n in 1..num {
 //         println!("{}", n);
 //     }
